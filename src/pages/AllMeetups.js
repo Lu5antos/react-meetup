@@ -1,6 +1,6 @@
  import React from 'react'
  
- function AllMeetups() {
+ function AllMeetupsPage() {
      return (
          <div>
             All Meetups Page 
@@ -8,5 +8,5 @@
      )
  }
  
- export default AllMeetups
+ export default AllMeetupsPage
  
