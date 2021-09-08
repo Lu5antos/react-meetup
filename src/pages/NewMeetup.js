@@ -1,6 +1,6 @@
 import React from 'react'
 
-function NewMeetup() {
+function NewMeetupPage() {
     return (
         <div>
             New Meetup Page
@@ -8,4 +8,4 @@ function NewMeetup() {
     )
 }
 
-export default NewMeetup
+export default NewMeetupPage
